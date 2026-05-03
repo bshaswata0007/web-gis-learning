@@ -1,0 +1,39 @@
+body{
+    background-color:lightskyblue;
+}
+
+
+div{
+    background-color:#0f1111;
+    border-width:5px;
+    border-style: solid;
+    border-color: white;
+    height: 60px;
+}
+
+#amazon{
+    color: orange;
+    font-width: 25px;
+}
+a{
+    text-decoration: none;
+}
+
+
+#acc{
+    color:white;
+}
+#cart{
+    color:white;
+}
+#contact{
+    color:white;
+}
+#search1{
+    text-align: center;
+}
+
+#search2{
+    background-color:#f08804;
+    color:white;
+}
